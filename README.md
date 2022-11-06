@@ -14,11 +14,7 @@ Authentication using `@react-oauth/google` for better life
 
 Clean state management with `react-redux`, data user and cars is handled with Redux
 
-### Rest API
 
-* Get data cars from `http://api-resto-auth.herokuapp.com/cars`
-* User login using `https://api-resto-auth.herokuapp.com/api/v1/user/login`, but for
-* User google login with `https://api-resto-auth.herokuapp.com/api/v1/auth/google`
 
 ### React Bootstrap
 
@@ -93,7 +89,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
+### Rest API
+
+* Get data cars from `http://api-resto-auth.herokuapp.com/cars`
+* User login using `https://api-resto-auth.herokuapp.com/api/v1/user/login`, but for
+* User google login with `https://api-resto-auth.herokuapp.com/api/v1/auth/google`
+
 ### Advanced Configuration
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
